@@ -20,11 +20,6 @@ I'm currently working on **Luxcinder**, a tModLoader mod that adds custom shader
 | Tools | Git, Visual Studio, VS Code |
 | Platforms | Windows, GitHub |
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxpns&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dxpns&layout=compact&theme=default&hide_border=true)
 
 ## Featured Projects
 
