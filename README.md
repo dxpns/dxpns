@@ -1,65 +1,48 @@
-# Hi, I'm DxP 👋
+# Hi, I'm DxP (≧▽≦)
 
-<YOUR_USERNAME> | Developer
+Welcome to my GitHub profile! I'm a developer who loves making games and mods, especially for Terraria.
+
+I'm currently working on **Luxcinder**, a tModLoader mod that adds custom shaders and visual effects to Terraria. Don't ask me why I like fxc compilation so much, it's none of your business! (>_<)
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dxpns&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dxpns)
+[![Profile views](https://komarev.com/ghpvc/?username=dxpns&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dxpns)
 [![GitHub followers](https://img.shields.io/github/followers/dxpns?label=Followers&style=social)](https://github.com/dxpns)
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-| Category | Tools & Technologies     |
-|----------|---------------------     |
-| Languages | C#,                     |
-| Frameworks | .NET, tModLoader       |
+| Category | Tools & Technologies |
+|----------|---------------------|
+| Languages | C#, HLSL |
+| Frameworks | .NET, tModLoader |
 | Tools | Git, Visual Studio, VS Code |
-| Platforms | Windows, GitHub         |
+| Platforms | Windows, GitHub |
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxpns&show_icons=true&theme=default&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dxpns&layout=compact&theme=default&hide_border=true)
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-  <tr>
-    <td align="center"><b>Project Name</b></td>
-    <td align="center"><b>Description</b></td>
-    <td align="center"><b>Tech</b></td>
-  </tr>
-  <tr>
-    <td align="center">Luxcinder</td>
-    <td align="center">tModLoader mod for Terraria</td>
-    <td align="center">C#, HLSL</td>
-  </tr>
-  <tr>
-    <td align="center">Your Project</td>
-    <td align="center">A short description</td>
-    <td align="center">Your stack</td>
-  </tr>
-</table>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| Luxcinder | A tModLoader mod for Terraria with custom shaders and visual effects | C#, HLSL |
 
-## 📫 Connect
+## Currently
 
-- Email: penguinqie686@gmail.com
+- Working on: Luxcinder (Terraria tModLoader mod)
+- Learning: Git, HLSL shaders, game modding
+- Ask me about: Terraria modding, C#, shader compilation
 
-Thanks for visiting my profile!
-<!--
-**dxpns/dxpns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>Contact Me</summary>
 
-Here are some ideas to get you started:
+  - Email: penguinqie686@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+Thanks for visiting my profile! (￣▽￣)ノ
