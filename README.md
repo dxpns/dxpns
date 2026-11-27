@@ -4,12 +4,6 @@ Welcome to my GitHub profile! I'm a developer who loves making games and mods, e
 
 I'm currently working on **Luxcinder**, a tModLoader mod that adds custom shaders and visual effects to Terraria. Don't ask me why I like fxc compilation so much, it's none of your business! (>_<)
 
-<div align="center">
-
-[![Profile views](https://komarev.com/ghpvc/?username=dxpns&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dxpns)
-[![GitHub followers](https://img.shields.io/github/followers/dxpns?label=Followers&style=social)](https://github.com/dxpns)
-
-</div>
 
 ## Tech Stack
 
